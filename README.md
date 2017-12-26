@@ -1,0 +1,7 @@
+# SortStack
+echo "# SortStack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lcaminata/SortStack.git
+git push -u origin master
